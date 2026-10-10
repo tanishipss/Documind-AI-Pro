@@ -21,8 +21,6 @@ Zero API keys. Fully offline. Completely free.
 
 ## 📸 Screenshots
 
-> 📌 **To add screenshots:** create a `screenshots/` folder in the project root, take screenshots of each feature, and save them with the filenames shown below. GitHub will render them automatically.
-
 ---
 
 ### Landing Page
@@ -310,8 +308,8 @@ documind_merged/
 
 ```bash
 # Clone from GitHub:
-git clone https://github.com/tanishipss/Documind-ai.git
-cd documind_merged
+git clone https://github.com/tanishipss/Documind-AI-Pro.git
+cd Documind-AI-Pro/documind_merged
 
 # Or extract the zip and cd into documind_merged/
 ```
